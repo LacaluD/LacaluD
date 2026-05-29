@@ -10,7 +10,6 @@ Self-taught + courses. Passionate about clean architecture and well-designed API
 - 🔭 Currently working on [my pet projects](https://github.com/LacaluD?tab=repositories)
 - 🧠 Improving backend skills — FastAPI, SQLAlchemy, Redis, clean architecture
 - 👥 Open to collaboration on interesting projects
-- 📬 Contact me: **your@email.com**
 
 ---
 
